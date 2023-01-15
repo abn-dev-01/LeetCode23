@@ -2,7 +2,7 @@ plugins {
     id 'java'
 } // jkd 15
 
-group 'org.example'
+group 'com.abndev.leetcode'
 version '1.0-SNAPSHOT'
 
 repositories {
